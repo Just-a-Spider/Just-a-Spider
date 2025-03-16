@@ -38,10 +38,17 @@ I'm a curious Software Engineering student who loves building cool projects and 
 
 ---
 
+### Databases & Cloud Services
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000?style=for-the-badge)
-
+![Ollama](https://img.shields.io/badge/Ollama-000?style=for-the-badge&logo=Ollama&logoColor=white)
 ---
 
 ### AI & Desktop Applications
