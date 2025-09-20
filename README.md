@@ -1,8 +1,8 @@
-# Hi, I'm Andre (Just-a-Spider)! 👋
+# Hi, I'm Andre
 
 I'm a curious Software Engineering student who loves building cool projects and learning something new every day. Welcome to my GitHub—thanks for stopping by!
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,7 +55,7 @@ I'm a curious Software Engineering student who loves building cool projects and 
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge)
 <!--
-## 📂 Featured Projects
+## Featured Projects
 
 - **[Estructura-De-Datos-Class-Page](https://github.com/Just-a-Spider/Estructura-De-Datos-Class-Page):**  
   A compendium of data structure exercises developed independently.
@@ -75,12 +75,12 @@ I'm a curious Software Engineering student who loves building cool projects and 
 - **Ollama Experiment:**  
   A small project where I explored Ollama to integrate AI functionalities into my workflow.
 
-## 📫 Let's Connect
+## Let's Connect
 
 - [GitHub](https://github.com/Just-a-Spider)
 - Feel free to reach out if you'd like to collaborate or just talk tech!
 
-## ⚡ GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Just-a-Spider&show_icons=true&theme=radical)
 -->
