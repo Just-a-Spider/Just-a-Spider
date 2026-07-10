@@ -1,6 +1,6 @@
 # Hi, I'm Andre
 
-I'm a curious Software Engineering student who loves building cool projects and learning something new every day. Welcome to my GitHub—thanks for stopping by!
+I'm an **Applied AI Full-Stack Developer & Software Architect** building highly available, data-driven, and intelligent web platforms. Currently a Senior Systems Engineering student (9th cycle), I specialize in building event-driven cloud systems, integrating LLMs and Computer Vision, and architecting scalable backends using Django, FastAPI, and PostgreSQL. Welcome to my GitHub—thanks for stopping by!
 
 ## My Tech Stack
 
@@ -19,6 +19,8 @@ I'm a curious Software Engineering student who loves building cool projects and 
 ### Backend
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 *Currently Learning:* ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -28,6 +30,7 @@ I'm a curious Software Engineering student who loves building cool projects and 
 ### Frontend
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 *Currently Learning:* ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -38,6 +41,7 @@ I'm a curious Software Engineering student who loves building cool projects and 
 ### Cloud Services & Databases
 **Moderate Knowledge:** ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Hetzner](https://img.shields.io/badge/hetzner-%23ED710B.svg?style=for-the-badge&logo=hetzner&logoColor=white)
 
 **Basics:** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
@@ -47,32 +51,23 @@ I'm a curious Software Engineering student who loves building cool projects and 
 
 ---
 
-### DevOps & Tools
+### DevOps, AI & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-white?style=for-the-badge&logo=ollama&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### AI & Desktop Applications
+![Ollama](https://img.shields.io/badge/Ollama-white?style=for-the-badge&logo=ollama&logoColor=black)
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ## Featured Projects
 
-- **[Estructura-De-Datos-Class-Page](https://github.com/Just-a-Spider/Estructura-De-Datos-Class-Page):** A compendium of data structure exercises developed independently.
-
-- **[EventosUDH](https://github.com/Just-a-Spider/EventosUDH):** A project to manage and participate in diverse events at the Universidad de Huánuco.
-
-- **[Gestion_Silabos](https://github.com/Just-a-Spider/Gestion_Silabos):** A simple syllabus management system built with TypeScript.
-
-- **[AI_Assistant_For_Class](https://github.com/Just-a-Spider/AI_Assistant_For_Class):** A local AI assistant built using PyQt6 and the OpenAI API.
-
-## Let's Connect
-
-- [GitHub](https://github.com/Just-a-Spider)
-- Feel free to reach out if you'd like to collaborate or just talk tech!
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Just-a-Spider&show_icons=true&theme=radical)
+- **[TutoríasUDH](https://github.com/Just-a-Spider/TutoriasUDH):** A comprehensive biometric attendance tracking system featuring a Python/**FastAPI** asynchronous edge server for
+  local biometrics sync and a Django DRF main backend deployed on GCP.
+- **[QR-Plates-Tickets](https://github.com/Just-a-Spider/QR-Plates-Tickets):** An automated digital traffic ticket system with vehicle license plate recognition using Computer Vision
+  (**YOLOv5**, **OpenCV**), EasyOCR, and a multi-threaded **PyQt6** desktop interface.
+- **[EventosUDH](https://github.com/Just-a-Spider/EventosUDH):** A robust decoupled web application to manage diverse university events, featuring a **Django Rest Framework** backend
+  and PostgreSQL.
+- **[Gestion_Silabos](https://github.com/Just-a-Spider/Gestion_Silabos):** A modern syllabus management system built with **Next.js**, showcasing a custom Singleton AuthService with
+  observer patterns and strict form validation pipelines (Zod).
+- **[AI_Assistant_For_Class](https://github.com/Just-a-Spider/AI_Assistant_For_Class):** A local AI assistant built using Python, PyQt6, and the OpenAI API, featuring an OS-integrated
+  architecture to interact directly with the browser.
