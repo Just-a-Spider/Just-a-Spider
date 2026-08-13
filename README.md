@@ -58,16 +58,3 @@ I'm an **Applied AI Full-Stack Developer & Software Architect** building highly 
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-## Featured Projects
-
-- **[TutoríasUDH](https://github.com/Just-a-Spider/TutoriasUDH):** A comprehensive biometric attendance tracking system featuring a Python/**FastAPI** asynchronous edge server for
-  local biometrics sync and a Django DRF main backend deployed on GCP.
-- **[QR-Plates-Tickets](https://github.com/Just-a-Spider/QR-Plates-Tickets):** An automated digital traffic ticket system with vehicle license plate recognition using Computer Vision
-  (**YOLOv5**, **OpenCV**), EasyOCR, and a multi-threaded **PyQt6** desktop interface.
-- **[EventosUDH](https://github.com/Just-a-Spider/EventosUDH):** A robust decoupled web application to manage diverse university events, featuring a **Django Rest Framework** backend
-  and PostgreSQL.
-- **[Gestion_Silabos](https://github.com/Just-a-Spider/Gestion_Silabos):** A modern syllabus management system built with **Next.js**, showcasing a custom Singleton AuthService with
-  observer patterns and strict form validation pipelines (Zod).
-- **[AI_Assistant_For_Class](https://github.com/Just-a-Spider/AI_Assistant_For_Class):** A local AI assistant built using Python, PyQt6, and the OpenAI API, featuring an OS-integrated
-  architecture to interact directly with the browser.
