@@ -1,6 +1,6 @@
 # Hi, I'm Andre
 
-I'm an **Applied AI Full-Stack Developer & Software Architect** building highly available, data-driven, and intelligent web platforms. Currently a Senior Systems Engineering student (9th cycle), I specialize in building event-driven cloud systems, integrating LLMs and Computer Vision, and architecting scalable backends using Django, FastAPI, and PostgreSQL. Welcome to my GitHub—thanks for stopping by!
+I'm a **Full-Stack Developer**. Currently a Senior Systems Engineering student (10th cycle), Welcome to my GitHub—thanks for stopping by!
 
 ## My Tech Stack
 
