@@ -1,6 +1,10 @@
 # Hi, I'm Andre
 
-I'm a **Full-Stack Developer**. Currently a Senior Systems Engineering student (10th cycle), Welcome to my GitHub—thanks for stopping by!
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-Visit_Website-BFC363?style=for-the-badge&logo=googlechrome&logoColor=2C2C2E)](https://Just-a-Spider.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Contact-Send_Email-2C2C2E?style=for-the-badge&logo=mail.ru&logoColor=FAF6EE)](mailto:andre_arg_0116@outlook.com)
+[![Freelance](https://img.shields.io/badge/Status-Available_for_Freelance-4D7C0F?style=for-the-badge)](mailto:andre_arg_0116@outlook.com)
+
+I'm a **Full-Stack Developer & Systems Engineering Senior Student (10th cycle)**. I specialize in building modern reactive web applications, clean REST APIs (FastAPI, Django, NestJS), and pragmatic systems tooling. Available for freelance projects, custom web development, and MVP rapid prototyping. Welcome to my GitHub!
 
 ## My Tech Stack
 
@@ -58,3 +62,19 @@ I'm a **Full-Stack Developer**. Currently a Senior Systems Engineering student (
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+## Featured Projects
+
+- **[SysMon](https://github.com/Just-a-Spider/SysMon):** Real-time hardware telemetry monitor, wireless macro pad, and virtual gamepad controller (Rust Tokio + C + Linux `/dev/uinput` + Nintendo 3DS). Officially indexed in [Universal-DB](https://db.universal-team.net/3ds/sysmon).
+- **[Bloodborne: Low-Poly Overhaul](https://github.com/Just-a-Spider/bloodborne-lowpoly-overhaul):** 3D asset decimation pipeline (Blender headless/Python), palette quantization, and Vulkan retro graphics pipeline for Bloodborne on PC. Drops VRAM usage sub-2GiB and boosts performance from 22 to 90 FPS on Linux.
+- **[Cripto-3DS](https://github.com/Just-a-Spider/Cripto-3DS):** Algorithmic quantitative trading ecosystem with physical hardware confirmation on Nintendo 3DS (TCP sockets, libctru/citro2d), FastAPI edge daemon, WebSockets, and LLM risk analysis.
+- **[@just-a-spider/blobatar-ng](https://www.npmjs.com/package/@just-a-spider/blobatar-ng):** Angular 22 adapter for blobatar — deterministic procedural SVG avatars with signals, animations, and gaze tracking (published on npm, integrated upstream).
+- **[Personal Portfolio](https://Just-a-Spider.github.io/portfolio/):** Interactive responsive single-page portfolio built with Angular 22 (Signals), featuring typed reactive i18n (EN/ES), telemetry metrics, and modular architecture.
+
+---
+
+## Contact & Freelance
+
+- **Portfolio:** [Just-a-Spider.github.io/portfolio](https://Just-a-Spider.github.io/portfolio/)
+- **Email:** [andre_arg_0116@outlook.com](mailto:andre_arg_0116@outlook.com)
+- **LinkedIn:** [linkedin.com/in/andre-argandoña](https://www.linkedin.com/in/andre-argando%C3%B1a-3011a6263/)
+- **Availability:** Full-stack web development, custom REST APIs, and rapid MVP prototyping.
